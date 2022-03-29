@@ -1,2 +1,2 @@
 # Remote-Control-TV
- A simple Java program for a TV remote
+A simple Java program to remotely control a TV.
