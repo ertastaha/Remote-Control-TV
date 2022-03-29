@@ -1,4 +1,4 @@
-package zbooksexamples;
+package sample;
 
 public class RemoteControlTV {
     private double width;
